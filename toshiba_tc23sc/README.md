@@ -2,6 +2,8 @@
 
 Pin numbers use the canonical cell orientation. Images show top metal on the left and polysilicon on the right.
 
+Pics by [InfoSecDJ](http://infosecdj.net/).
+
 ## Inverter (h2_0)
 
 ```text
